@@ -40,6 +40,7 @@ public class CleverRobot extends IRobotAdapter {
 			driveDirect(400,-400);
 			Thread.sleep(1000);
 		}
+		
 
 		/*if(isBumpLeft()){
 			driveDirect(-200,400);
